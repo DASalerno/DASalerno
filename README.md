@@ -1,6 +1,6 @@
 # About Me
 
-### A Texas man born in Venezluea and living in Maryland
+### A Texas man born in Venezuela and living in Maryland
 
 Hello! My name is Domingo Salerno, and I am a budding data scientist. I graduated from the University of Texas at Austin in 2018 having studied political science, with a focus in electoral processes and international politics. Since then, I have worked in the insurance and automotive industries in positions that demanded excellent teamwork, constant organization, and clear communication with management and clients. My work experience has provided me with the investigative, organizational, and time management skills that have prepared me for any challenge that I may face.
 
